@@ -1,0 +1,16 @@
+{
+  "title": "西湖玫瑰线",
+  "subtitle": "沿着西湖，跑出一朵玫瑰",
+  "routeLabel": "西湖玫瑰线",
+  "madeOn": "2026-10-12",
+  "recordedOn": "2026-10-11",
+  "startName": "起点",
+  "finishName": "终点",
+  "landmarks": [],
+  "landmarkTitle": "路线轨迹",
+  "landmarkNote": "4370 个原始轨迹点，保留完整玫瑰线。",
+  "statsSource": "两步路 KML 活动汇总",
+  "imageryZoom": 15,
+  "demZoom": 13,
+  "routeColor": "#f35b98"
+}
