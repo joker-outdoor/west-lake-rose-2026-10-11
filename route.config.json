@@ -1,0 +1,24 @@
+{
+  "title": "西湖玫瑰线",
+  "subtitle": "沿着西湖，跑出一朵玫瑰",
+  "routeLabel": "西湖玫瑰线",
+  "madeOn": "2026-10-12",
+  "recordedOn": "2026-10-11",
+  "startName": "起点",
+  "finishName": "终点",
+  "landmarks": [],
+  "landmarkTitle": "路线轨迹",
+  "landmarkNote": "7415 个运动健康轨迹点，沿湖跑出完整玫瑰线。",
+  "statsSource": "运动健康（Apple Watch）",
+  "imageryZoom": 15,
+  "demZoom": 13,
+  "routeColor": "#f35b98",
+  "trackSource": "运动健康 GPS",
+  "stats": {
+    "sourceDistanceKm": 22.158867217122047,
+    "gainM": 116.66,
+    "lossM": null,
+    "durationHours": 2.304739489754041,
+    "pauseSeconds": 809.9779521226883
+  }
+}
